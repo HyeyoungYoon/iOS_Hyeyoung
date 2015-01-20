@@ -13,6 +13,6 @@ Completed user stories:
 
 Walkthrough of all user stories:
 
-iOS_Hyeyoung/hw/prework_Hyeyoung.gif
+<img src="https://github.com/HyeyoungYoon/iOS_Hyeyoung/blob/master/hw/prework_Hyeyoung.gif">
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
